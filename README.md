@@ -1,4 +1,4 @@
-# ChurnPulse: Telecom Customer Churn Analysis
+  # ChurnPulse: Telecom Customer Churn Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-brightgreen)
@@ -89,29 +89,41 @@ G --> H[Generate Business Recommendations]
 
 ## Visual Insights
 
-> Add your exported notebook charts inside an `assets/` folder and update the image paths below.
-
 ### Overall Churn Distribution
 
-![Overall Churn Distribution](assets/overall_churn_distribution.png)
+![Overall Churn Distribution](images/churn_analysis.png)
 
-### Churn by Internet Service
+### Gender Distribution
 
-![Churn by Internet Service](assets/churn_by_internet_service.png)
+![Gender Distribution](images/gender_analysis.png)
 
-### Churn by Online Security
+### Churn by Gender
 
-![Churn by Online Security](assets/churn_by_online_security.png)
+![Churn by Gender](images/churn_gender_analysis.png)
 
-### Churn by Tech Support and Senior Citizen Segment
+### Churn by Phone Service
 
-![Tech Support Senior Citizen Churn](assets/techsupport_seniorcitizen_churn.png)
+![Churn by Phone Service](images/churn_phone_service.png)
 
-### Churn by Monthly Charges Range
+### Churn by Tech Support
 
-![Monthly Charges Churn](assets/monthly_charges_churn.png)
+![Churn by Tech Support](images/churn_techsupport.png)
 
----
+### Churn by Tenure
+
+![Churn by Tenure](images/tenure_churn.png)
+
+### Monthly Charges vs Churn
+
+![Monthly Charges vs Churn](images/monthly_churn_with_charges.png)
+
+### Month-wise Tenure Churn
+
+![Month-wise Tenure Churn](images/month_wise_tenure_churn.png)
+
+### Senior Citizen vs Online Security
+
+![Senior Citizen vs Online Security](images/senior_citizen_with_security.png)
 
 ## Key Findings
 
