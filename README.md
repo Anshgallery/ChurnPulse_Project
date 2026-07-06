@@ -117,13 +117,6 @@ G --> H[Generate Business Recommendations]
 
 ![Monthly Charges vs Churn](images/monthly_churn_with_charges.png)
 
-### Month-wise Tenure Churn
-
-![Month-wise Tenure Churn](images/month_wise_tenure_churn.png)
-
-### Senior Citizen vs Online Security
-
-![Senior Citizen vs Online Security](images/senior_citizen_with_security.png)
 
 ## Key Findings
 
